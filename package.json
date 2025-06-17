@@ -1,6 +1,6 @@
 {
   "name": "@thuandiep-corp/react-split-video-to-img",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Extract frames from a video as PNG Blobs",
   "type": "module",
