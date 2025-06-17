@@ -1,0 +1,33 @@
+{
+  "name": "@thuandiep-corp/react-split-video-to-img",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Extract frames from a video as PNG Blobs",
+  "type": "module",
+  "main": "main.js",
+  "keywords": [
+    "video",
+    "frames",
+    "png",
+    "blob",
+    "react"
+  ],
+  "author": "Thuandiep Corp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thuandiep-corp/react-split-video-to-img.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thuandiep-corp/react-split-video-to-img/issues"
+  },
+  "homepage": "https://github.com/Thuandiep-corp/react-split-video-to-img#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
